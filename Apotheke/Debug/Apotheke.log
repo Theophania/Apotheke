@@ -1,0 +1,20 @@
+﻿  Apotheke.cpp
+c:\visual studio\oop\apotheke\apotheke\apotheke.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\visual studio\oop\apotheke\apotheke\apotheke.cpp(52): error C2511: 'bool Apotheke::comp(Medikament,Medikament)': overloaded member function not found in 'Apotheke'
+  c:\visual studio\oop\apotheke\apotheke\apotheke.h(6): note: see declaration of 'Apotheke'
+c:\visual studio\oop\apotheke\apotheke\apotheke.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\visual studio\oop\apotheke\apotheke\apotheke.cpp(78): error C3867: 'Apotheke::comp': non-standard syntax; use '&' to create a pointer to member
+c:\visual studio\oop\apotheke\apotheke\apotheke.cpp(78): error C2672: 'sort': no matching overloaded function found
+c:\visual studio\oop\apotheke\apotheke\apotheke.cpp(78): error C2780: 'void std::sort(const _RanIt,const _RanIt)': expects 2 arguments - 3 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(4038): note: see declaration of 'std::sort'
+c:\visual studio\oop\apotheke\apotheke\apotheke.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\visual studio\oop\apotheke\apotheke\apotheke.cpp(108): error C3867: 'Apotheke::comp2': non-standard syntax; use '&' to create a pointer to member
+c:\visual studio\oop\apotheke\apotheke\apotheke.cpp(108): error C2672: 'sort': no matching overloaded function found
+c:\visual studio\oop\apotheke\apotheke\apotheke.cpp(108): error C2780: 'void std::sort(const _RanIt,const _RanIt)': expects 2 arguments - 3 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\algorithm(4038): note: see declaration of 'std::sort'
+  main.cpp
+c:\visual studio\oop\apotheke\apotheke\main.cpp(10): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\visual studio\oop\apotheke\apotheke\main.cpp(11): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\visual studio\oop\apotheke\apotheke\main.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\visual studio\oop\apotheke\apotheke\main.cpp(21): error C3867: 'Medikament::getName': non-standard syntax; use '&' to create a pointer to member
+  Generating Code...
